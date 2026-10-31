@@ -1,0 +1,18 @@
+# Секреты
+.env
+
+# Данные и логи бота
+seen.db
+data/
+config.py.tmp
+monitor.log
+monitor.log.*
+
+# Сохранённая страница Kwork: в ней личные данные аккаунта
+sample_page.html
+
+# Окружение и IDE
+.venv/
+venv/
+__pycache__/
+.idea/
